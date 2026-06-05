@@ -21,7 +21,7 @@
 
 I'm a software engineer with a stronger focus on **Python**, working around **Telecom AI**, **anomaly detection**, and **ICT platforms**.
 
-I also work with **TypeScript** and UI frameworks when a project needs a small dashboard, interface, or workflow around backend logic.
+I also work with **TypeScript** and UI frameworks when a project needs a small interface for exploring data, explaining results, or making backend logic easier to understand.
 
 ## Interests
 
@@ -31,7 +31,7 @@ I also work with **TypeScript** and UI frameworks when a project needs a small d
 - Data visualization and monitoring, especially with Grafana, ECharts, and Plotly
 - AI-assisted development with Claude Code, GitHub Copilot, and Codex
 - AI-assisted UI prototyping with tools like Lovable and Bolt.new
-- Simple dashboards and internal tools that make systems easier to use
+- Data analysis, data understanding, and data storytelling — putting results into a clearer frame for people to use
 
 ## Education
 
