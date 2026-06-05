@@ -23,14 +23,14 @@ I'm a software engineer with a stronger focus on **Python**, working around **Te
 
 I also work with **TypeScript** and UI frameworks when a project needs a small interface for exploring data, explaining results, or making backend logic easier to understand.
 
-I have strong hands-on knowledge of cloud and infrastructure work, especially with **Kubernetes**, **Docker**, **Podman**, **AWS**, **Azure**, and **GCP**.
+I have strong hands-on knowledge of cloud and infrastructure work, especially with **Kubernetes (K8s)**, **Docker**, **Podman**, **AWS**, **GCP**, and **Azure**.
 
 ## Interests
 
 - Python systems for data and AI/ML workflows
 - Anomaly detection and time-series related problems
 - Agentic workflows and LLM applications, mainly with LangChain, LangGraph, and Langfuse
-- Cloud and container infrastructure with Kubernetes, Docker, Podman, AWS, Azure, and GCP
+- Cloud and container infrastructure with Kubernetes (K8s), Docker, Podman, AWS, GCP, and Azure
 - Data visualization and monitoring, especially with Grafana, ECharts, and Plotly
 - AI-assisted development with Claude Code, GitHub Copilot, and Codex
 - AI-assisted UI prototyping with tools like Lovable and Bolt.new
