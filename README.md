@@ -2,18 +2,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Software+Engineer;Python+%E2%80%A2+AI%2FML+%E2%80%A2+Anomaly+Detection;Telecom+AI+%E2%80%A2+ICT+Platforms;TypeScript+%E2%80%A2+Developer+Tooling" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Software+Engineer;Python+%E2%80%A2+AI%2FML+%E2%80%A2+Anomaly+Detection;Telecom+AI+%E2%80%A2+ICT+Platforms;TypeScript+%E2%80%A2+UI+Tools" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Friendly developer building practical AI, anomaly detection, and tooling systems.</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ioachim-hub">
-    <img src="https://komarev.com/ghpvc/?username=ioachim-hub&style=flat-square&color=blue" alt="Profile views" />
-  </a>
   <a href="mailto:ioachim.lihor@gmail.com">
     <img src="https://img.shields.io/badge/Email-ioachim.lihor%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -26,37 +19,33 @@
 
 ## About me
 
-I'm a software engineer working in **Telecom AI**, **anomaly detection**, and **ICT platforms**. I like turning complex backend/data systems into reliable tools that people can actually understand, operate, and improve.
+I'm a software engineer working around **Telecom AI**, **anomaly detection**, and **ICT platforms**.
 
-Currently, I'm employed by **Orion Innovation** and working full-time with **Radcom** in the Team Extension Strategy model. I'm part of Radcom's **Anomaly Artificial Intelligence** team, where my work is centered on anomaly detection and applied AI systems.
+Most of my work is in **Python**. I also build **TypeScript/UI** tools when a project needs a small dashboard, interface, or workflow around the backend logic.
 
-Most of my day-to-day work is in **Python**, but I also enjoy building **TypeScript/UI** tools when a project needs a clean dashboard, workflow, or interface around the backend logic.
+I'm currently employed by **Orion Innovation** and working full-time with **Radcom** in the Team Extension Strategy model, as part of the **Anomaly Artificial Intelligence** team.
 
-## What I'm focused on
+## Interests
 
-- Telecom AI, anomaly detection, and ICT platform engineering
-- Python systems for data-heavy, AI/ML, and automation workflows
-- Productionization of AI: making models, agents, and pipelines useful outside notebooks
-- Developer automation, dashboards, observability, and AI-assisted engineering tools
-- Friendly, practical UIs that make technical systems easier to use
+- Python systems for data and AI/ML workflows
+- Anomaly detection and time-series related problems
+- Practical AI tooling with LangChain, LangGraph, Codex, GitHub Copilot, and Claude Code
+- Simple dashboards and internal tools that make systems easier to use
 
 ## Education
 
 - **M.Sc. in Natural Language Processing** — University of Bucharest
 - **B.Sc.** — Military Technical Academy
 
-## Tech & tools I work with
+## Tools I use
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/OpenAI%20Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge" alt="Claude Code" />
@@ -77,14 +66,8 @@ Most of my day-to-day work is in **Python**, but I also enjoy building **TypeScr
   </picture>
 </p>
 
-## How I think about engineering
-
-I like systems that are useful, observable, and maintainable. The best tools reduce friction for real users: clear data, clear interfaces, and automation that handles the boring parts reliably.
-
-I’m especially interested in the space where **Python engineering**, **AI/ML**, **anomaly detection**, and **developer tooling** meet.
-
 ---
 
 <p align="center">
-  <em>Python • Telecom AI • Anomaly Detection • ICT Platforms • TypeScript • LangChain • LangGraph • Automation</em>
+  <em>Python • Anomaly Detection • Telecom AI • ICT Platforms • TypeScript</em>
 </p>
