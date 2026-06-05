@@ -23,11 +23,14 @@ I'm a software engineer with a stronger focus on **Python**, working around **Te
 
 I also work with **TypeScript** and UI frameworks when a project needs a small interface for exploring data, explaining results, or making backend logic easier to understand.
 
+I have strong hands-on knowledge of cloud and infrastructure work, especially with **Kubernetes**, **Docker**, **Podman**, **AWS**, **Azure**, and **GCP**.
+
 ## Interests
 
 - Python systems for data and AI/ML workflows
 - Anomaly detection and time-series related problems
 - Agentic workflows and LLM applications, mainly with LangChain, LangGraph, and Langfuse
+- Cloud and container infrastructure with Kubernetes, Docker, Podman, AWS, Azure, and GCP
 - Data visualization and monitoring, especially with Grafana, ECharts, and Plotly
 - AI-assisted development with Claude Code, GitHub Copilot, and Codex
 - AI-assisted UI prototyping with tools like Lovable and Bolt.new
@@ -45,6 +48,12 @@ I also work with **TypeScript** and UI frameworks when a project needs a small i
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white" alt="ECharts" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
@@ -76,5 +85,5 @@ I also work with **TypeScript** and UI frameworks when a project needs a small i
 ---
 
 <p align="center">
-  <em>Python • Anomaly Detection • Telecom AI • ICT Platforms • Agentic Workflows • Visualization • TypeScript</em>
+  <em>Python • Cloud Infrastructure • Anomaly Detection • Telecom AI • ICT Platforms • Agentic Workflows • Visualization • TypeScript</em>
 </p>
