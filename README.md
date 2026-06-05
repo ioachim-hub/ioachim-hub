@@ -19,18 +19,17 @@
 
 ## About me
 
-I'm a software engineer working around **Telecom AI**, **anomaly detection**, and **ICT platforms**.
+I'm a software engineer, more specialized in **Python**, working around **Telecom AI**, **anomaly detection**, and **ICT platforms**.
 
-Most of my work is in **Python**. I also build **TypeScript/UI** tools when a project needs a small dashboard, interface, or workflow around the backend logic.
-
-I'm currently employed by **Orion Innovation** and working full-time with **Radcom** in the Team Extension Strategy model, as part of the **Anomaly Artificial Intelligence** team.
+I also work with **TypeScript** and UI frameworks when a project needs a small dashboard, interface, or workflow around the backend logic.
 
 ## Interests
 
 - Python systems for data and AI/ML workflows
 - Anomaly detection and time-series related problems
 - Agentic workflows and LLM applications, mainly with LangChain, LangGraph, and Langfuse
-- Using AI coding assistants such as Claude Code, GitHub Copilot, and Codex as part of my development workflow
+- Data visualization and monitoring with Grafana, ECharts, and Plotly
+- Using AI coding and UI-building assistants such as Claude Code, GitHub Copilot, Codex, Lovable, and Bolt.new
 - Simple dashboards and internal tools that make systems easier to use
 
 ## Education
@@ -45,12 +44,17 @@ I'm currently employed by **Orion Innovation** and working full-time with **Radc
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white" alt="ECharts" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge" alt="LangGraph" />
   <img src="https://img.shields.io/badge/Langfuse-F59E0B?style=for-the-badge" alt="Langfuse" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge" alt="Claude Code" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/OpenAI%20Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Lovable-FF5A8A?style=for-the-badge" alt="Lovable" />
+  <img src="https://img.shields.io/badge/Bolt.new-111827?style=for-the-badge" alt="Bolt.new" />
 </p>
 
 ## GitHub snapshot
@@ -71,5 +75,5 @@ I'm currently employed by **Orion Innovation** and working full-time with **Radc
 ---
 
 <p align="center">
-  <em>Python • Anomaly Detection • Telecom AI • ICT Platforms • Agentic Workflows • TypeScript</em>
+  <em>Python • Anomaly Detection • Telecom AI • ICT Platforms • Agentic Workflows • Visualization • TypeScript</em>
 </p>
