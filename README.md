@@ -29,7 +29,8 @@ I'm currently employed by **Orion Innovation** and working full-time with **Radc
 
 - Python systems for data and AI/ML workflows
 - Anomaly detection and time-series related problems
-- Practical AI tooling with LangChain, LangGraph, Codex, GitHub Copilot, and Claude Code
+- Agentic workflows and LLM applications, mainly with LangChain, LangGraph, and Langfuse
+- Using AI coding assistants such as Claude Code, GitHub Copilot, and Codex as part of my development workflow
 - Simple dashboards and internal tools that make systems easier to use
 
 ## Education
@@ -46,9 +47,10 @@ I'm currently employed by **Orion Innovation** and working full-time with **Radc
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Langfuse-F59E0B?style=for-the-badge" alt="Langfuse" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge" alt="Claude Code" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/OpenAI%20Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge" alt="Claude Code" />
 </p>
 
 ## GitHub snapshot
@@ -69,5 +71,5 @@ I'm currently employed by **Orion Innovation** and working full-time with **Radc
 ---
 
 <p align="center">
-  <em>Python • Anomaly Detection • Telecom AI • ICT Platforms • TypeScript</em>
+  <em>Python • Anomaly Detection • Telecom AI • ICT Platforms • Agentic Workflows • TypeScript</em>
 </p>
