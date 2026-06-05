@@ -31,7 +31,7 @@ I also work with **TypeScript** and UI frameworks when a project needs a small i
 - Data visualization and monitoring, especially with Grafana, ECharts, and Plotly
 - AI-assisted development with Claude Code, GitHub Copilot, and Codex
 - AI-assisted UI prototyping with tools like Lovable and Bolt.new
-- Data analysis, data understanding, and data storytelling — putting results into a clearer frame for people to use
+- Data analysis and data storytelling — turning raw results into clearer context for decisions
 
 ## Education
 
