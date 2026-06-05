@@ -19,17 +19,18 @@
 
 ## About me
 
-I'm a software engineer, more specialized in **Python**, working around **Telecom AI**, **anomaly detection**, and **ICT platforms**.
+I'm a software engineer with a stronger focus on **Python**, working around **Telecom AI**, **anomaly detection**, and **ICT platforms**.
 
-I also work with **TypeScript** and UI frameworks when a project needs a small dashboard, interface, or workflow around the backend logic.
+I also work with **TypeScript** and UI frameworks when a project needs a small dashboard, interface, or workflow around backend logic.
 
 ## Interests
 
 - Python systems for data and AI/ML workflows
 - Anomaly detection and time-series related problems
 - Agentic workflows and LLM applications, mainly with LangChain, LangGraph, and Langfuse
-- Data visualization and monitoring with Grafana, ECharts, and Plotly
-- Using AI coding and UI-building assistants such as Claude Code, GitHub Copilot, Codex, Lovable, and Bolt.new
+- Data visualization and monitoring, especially with Grafana, ECharts, and Plotly
+- AI-assisted development with Claude Code, GitHub Copilot, and Codex
+- AI-assisted UI prototyping with tools like Lovable and Bolt.new
 - Simple dashboards and internal tools that make systems easier to use
 
 ## Education
@@ -37,7 +38,7 @@ I also work with **TypeScript** and UI frameworks when a project needs a small d
 - **M.Sc. in Natural Language Processing** — University of Bucharest
 - **B.Sc.** — Military Technical Academy
 
-## Tools I use
+## Tools and areas I work with
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
